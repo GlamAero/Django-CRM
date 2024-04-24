@@ -18,3 +18,5 @@ cursorObject = dataBase.cursor()
 
 # create a database
 cursorObject.execute("CREATE DATABASE my_webdb")
+
+print("All Done!")
